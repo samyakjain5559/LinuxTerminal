@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612516745 source:/eecs/home/samayak/Desktop/eecs3221_workspace/shell_script/main.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<sys/wait.h>
+	<fcntl.h>
+
